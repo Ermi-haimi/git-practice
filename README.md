@@ -1,1 +1,1 @@
-this is for my data structure and algorithm class
+this is to practice git and git hub
